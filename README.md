@@ -172,12 +172,6 @@ Feel free to fork, improve, and submit a PR.
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ## 🙌 Acknowledgements
 
 * Google ADK
